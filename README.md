@@ -15,3 +15,13 @@ https://github.com/Kong/kong
 # Kong Manager
 
 ![](gui.png)
+
+# Get Image Micro Service
+
+## Route Definition
+
+![](routes.png)
+
+## Service Demo
+
+![](get-image.png)
