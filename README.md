@@ -25,3 +25,9 @@ https://github.com/Kong/kong
 ## Service Demo
 
 ![](get-image.png)
+
+# Authentication Plugin
+
+![](401.png)
+
+![](200.png)
