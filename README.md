@@ -31,3 +31,21 @@ https://github.com/Kong/kong
 ![](401.png)
 
 ![](200.png)
+
+# Caching
+
+## Miss
+```
+X-Cache-Status	Miss
+X-Kong-Upstream-Latency	50
+```
+
+![](miss.png)
+
+## Miss
+```
+X-Cache-Status	Hit
+X-Kong-Upstream-Latency	0
+```
+
+![](hit.png)
