@@ -49,3 +49,8 @@ X-Kong-Upstream-Latency	0
 ```
 
 ![](hit.png)
+
+# KONG RateLimit 429
+
+![](ratelimit-ok.png)
+![](429.png)
